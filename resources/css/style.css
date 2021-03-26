@@ -1,9 +1,14 @@
-h1, p, h2 {
+body {
     font-family: Verdana;
     text-align: center;
+    background-color: black;
 }
 h1 {
     font-weight: normal;
     font-size: 50px;
     color: white;
+}
+.app-link {
+    font-size: 16px;
+    color: aquamarine;
 }
