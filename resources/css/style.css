@@ -11,4 +11,12 @@ h1 {
 .app-link {
     font-size: 16px;
     color: aquamarine;
+    text-decoration: underline;
+}
+p {
+    font-size: 21px;
+    color: gray;
+}
+.footer{
+    text-align: right;
 }
